@@ -1,6 +1,6 @@
 {
-  "androidMinVersion": "1.0.7",
-  "iosMinVersion": "1.0.5",
+  "androidMinVersion": "1.0.4",
+  "iosMinVersion": "1.0.4",
   "androidAllowedProtocols": [
     "carreta-rede-v1"
   ],
