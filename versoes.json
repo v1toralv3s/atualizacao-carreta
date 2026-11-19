@@ -1,0 +1,16 @@
+{{
+  "androidMinVersion": "1.0.5",
+  "iosMinVersion": "1.0.5",
+  "androidAllowedProtocols": [
+    "carreta-rede-v1"
+  ],
+  "iosAllowedProtocols": [
+    "carreta-rede-v1"
+  ],
+  "androidMaintenance": false,
+  "iosMaintenance": false,
+  "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.lunaticsgames.cdaonline",
+  "iosStoreUrl": "https://apps.apple.com/br/app/idSEU_APP_ID",
+  "androidMessage": "Uma nova atualização é obrigatória para continuar jogando online. Atualize na Google Play.",
+  "iosMessage": "Uma nova atualização é obrigatória para continuar jogando online. Atualize na App Store."
+}}
