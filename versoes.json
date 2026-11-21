@@ -1,5 +1,5 @@
 {
-  "androidMinVersion": "1.0.7",
+  "androidMinVersion": "1.0.5",
   "iosMinVersion": "1.0.4",
   "androidAllowedProtocols": [
     "carreta-rede-v1"
@@ -9,6 +9,6 @@
   ],
   "androidMaintenance": false,
   "iosMaintenance": false,
-  "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.lunaticsgames.cdaonline"
+  "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.lunaticsgames.cdaonline",
   "iosStoreUrl": "https://apps.apple.com/br/app/idSEU_APP_ID"
 }
